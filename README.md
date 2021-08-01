@@ -8,7 +8,7 @@ Follow the instructions:
 
 1- Go to https://github.com/smart-methods/arduino_robot_arm
 
-2- Choose arduino_robot_arm/robot_arm_pkg/meshes/stl/
+2- Go through this path arduino_robot_arm/robot_arm_pkg/meshes/stl/
 
 3- Print the whole pieces
 
